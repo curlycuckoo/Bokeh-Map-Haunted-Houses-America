@@ -1,5 +1,5 @@
 ## Create an interactive map using haunted houses dataset in America
-- This project contains two sections. 
+- This project contains [two sections](https://github.com/curlycuckoo/Bokeh-Map-Haunted-Houses-America/blob/acf63df9f6b41236ae67a1fba1a5bdc65ce2286e/Haunted_Houses.ipynb). 
   1. Section 1 is to perform an exploratory data analysis. 
   2. Section 2 is to create an interactive map using Bokeh packages, showing the how many haunted houses in each state in America.
 
